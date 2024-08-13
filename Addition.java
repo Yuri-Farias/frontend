@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane; // Não sei
 
 public class Addition // Aqui é criada a classe Addition
-{
+{ // Aqui ínicia o bloco de código da classe Addition
    public static void main(String[] args) // Aqui é criado o método executor main
    { // Aqui começa o bloco de código do método main
       
@@ -14,7 +14,7 @@ public class Addition // Aqui é criada a classe Addition
       int number1 = Integer.parseInt(firstNumber); // Não sei
       int number2 = Integer.parseInt(secondNumber); // Não sei
 
-      int sum = number1 + number2;  // Aqui é a soma/resultado dos números 1 e 2
+      int sum = number1 + number2;  // Aqui é a soma/resultado dos números 1 e 2 (???)
 
       
       JOptionPane.showMessageDialog(null, "The sum is " + sum, // Aqui mostra uma mensagem quando a soma é acertada
